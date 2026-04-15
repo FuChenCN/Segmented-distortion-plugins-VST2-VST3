@@ -1,0 +1,20 @@
+# JUCE 工程垃圾
+*.jucer
+JuceLibraryCode/
+Builds/
+
+# VS 编译产物
+.vs/
+x64/
+Debug/
+Release/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.obj
+*.pdb
+*.ilk
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
